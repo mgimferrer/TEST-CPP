@@ -1,4 +1,6 @@
 #!/bin/bash
 
+# Easiest way to compile up to now
+
 g++ -std=c++0x testmain.cpp -o ptest.x
 
