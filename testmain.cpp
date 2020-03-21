@@ -75,6 +75,15 @@ int main()
 
 //   
 
+// i suck on github 
+
+   cout << newline; 
+   a = 3
+   cout << a << endl; 
+   cout << newline; 
+
+//   
+
 
 
 // END OF THE PROGRAM //
